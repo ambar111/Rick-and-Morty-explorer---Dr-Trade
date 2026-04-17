@@ -95,7 +95,7 @@ export const Layout = ({ children }: LayoutProps) => {
       <footer className="bg-[#1b263b]/60 backdrop-blur-lg border-t border-[#97ce4c]/20 mt-auto relative z-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <p className="text-center text-[#98c1d9] text-sm">
-            Prueba Tecnica Dr Trade | Rick and Morty API
+            Ambar Tiburcio | Prueba Tecnica Dr Trade | Rick and Morty API
           </p>
         </div>
       </footer>
